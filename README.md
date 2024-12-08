@@ -19,6 +19,12 @@ Aquarium management is a complex discipline that focuses on creating and maintai
 
 - Recognizing Stress Indicators in Fish: Identifying stress and implementing recovery solutions.
 
+### architectural diagram
+
+![diagram-export-12-8-2024-1_47_45-PM](https://github.com/user-attachments/assets/67d6a2cd-709b-4e4d-832d-b0aa0ca685b8)
+
+
+
 
 ### dependencies
 - Python Libraries
