@@ -9,6 +9,15 @@ IT21374906
 IT21363702
 
 ### overview of the project
+Aquarium management is a complex discipline that focuses on creating and maintaining a stable environment for fish and other aquatic organisms. Effective management is essential not only for aesthetic enjoyment but also for the health and longevity of aquatic species. Our goal is to develop integrated systems that enhance key aspects of aquarium care, including
+
+- Fish identification and Skin condition checker. Recognizing fish species and assessing skin conditions.
+
+- Disease identification and prevention. Detecting diseases and implementing preventive measures.
+
+- Breeding optimization and environmental management. Creating ideal breeding conditions, regulating water quality. temperature
+
+- Recognizing Stress Indicators in Fish: Identifying stress and implementing recovery solutions.
 
 
 ### dependencies
