@@ -1,0 +1,21 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "bacterial_gill"
+    },
+    {
+      "id": 1,
+      "name": "bacterial_red"
+    },
+    {
+      "id": 2,
+      "name": "fungal_saprolegniasis"
+    }
+  ],
+  "info": {
+    "year": 2024,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

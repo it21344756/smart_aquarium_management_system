@@ -1,0 +1,7 @@
+train: /content/drive/MyDrive/RP021/train
+val: /content/drive/MyDrive/RP021/val
+
+nc: 3
+
+names: ["bacterial_gill", "bacterial_red", "fungal_saprolegniasis"]
+
